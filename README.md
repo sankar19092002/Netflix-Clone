@@ -55,5 +55,3 @@ Netflix-Clone/
 ## ⚠️ Note
 This project is a frontend design demonstration inspired by Netflix. It does not include actual Netflix streaming, user authentication, or membership functionality.
 
-## 👨‍💻 Author
-Developed as a frontend web development practice project using HTML and CSS.
